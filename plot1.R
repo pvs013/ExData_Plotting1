@@ -25,3 +25,4 @@ hist(power_data$Global_active_power, col="red", main="Global Active Power",
 
 #Close Graphics Device
 dev.off()
+

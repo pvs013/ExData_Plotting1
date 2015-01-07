@@ -33,3 +33,4 @@ legend("topright", lwd = 2, col= c("black","red","blue"),
 
 #Close Graphics Device
 dev.off()
+
